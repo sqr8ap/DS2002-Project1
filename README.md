@@ -5,7 +5,8 @@ This repo contains our group's project 1 files. The SQL file creates the chinook
 For this project, we designed a dimensional data mart and developed an ETL pipeline to populate the data mart. We also authored a Jupyter Notebook to integrate data from multiple sources, SQL queries to demonstrate functionality of the resulting database schema, and documentation of the process. 
 
 
-Sam Remmey, sqr8ap
-Megan Le, mpl8fjk
-Gabby Cordelli, gec2tp
-Jasmine Tang, jht4xj
+Group members:
+- Sam Remmey, sqr8ap
+- Megan Le, mpl8fjk
+- Gabby Cordelli, gec2tp
+- Jasmine Tang, jht4xj
