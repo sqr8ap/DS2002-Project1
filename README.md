@@ -1,4 +1,4 @@
-# DS2002-Project1
+# DS2002 Project 1
 
 This repo contains our group's project 1 files. The SQL file creates the chinook database, and the Jupyter Notebook contains the end-to-end ETL process we executed. 
 
