@@ -1,6 +1,6 @@
-# DS2002 Project 1
+## DS 2002 Project 1: ETL Pipeline
 
-This repo contains our group's project 1 files. The SQL file creates the chinook database, and the Jupyter Notebook contains the end-to-end ETL process we executed. 
+This repository contains our group's project 1 files. The SQL file creates the chinook database, and the Jupyter Notebook contains the end-to-end ETL process we executed. 
 
 For this project, we designed a dimensional data mart and developed an ETL pipeline to populate the data mart. We authored a Jupyter Notebook to integrate data from multiple sources, SQL queries to demonstrate functionality of the resulting database schema, and documentation of the process. 
 
